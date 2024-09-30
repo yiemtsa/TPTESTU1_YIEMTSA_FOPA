@@ -19,5 +19,5 @@ public class TestOperationMathematique {
 	        assertEquals(2, OperationMathematique.factoriel(2));
 	        assertEquals(6, OperationMathematique.factoriel(3));
 	    }
-
+	    
 }
